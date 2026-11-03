@@ -224,6 +224,107 @@ Interested in an existing software product or a custom development project?
 
 **[Request Custom Development](https://www.asicoder.co.uk/project-request)**
 
+
+### 2. Laravel eCommerce Website with Admin Panel & Tailwind CSS
+
+[![ASICODER Laravel eCommerce Website with Admin Panel and Tailwind CSS](https://www.asicoder.co.uk/assets/products/1788525809-ChatGPT%20Image%20Sep%204%2C%202026%2C%2004_04_08%20PM.png)](https://www.asicoder.co.uk/category/website-projects/ecommerce-solutions/laravel-ecommerce-website-with-admin-panel-tailwind-css)
+
+**A Complete Laravel Online Store with a Responsive Customer Website and Powerful Admin Dashboard**
+
+Build and manage a modern online shopping website with this Laravel eCommerce solution. The project combines a responsive Tailwind CSS storefront with a centralized admin panel for managing products, customers, categories, brands, variations, orders, payment statuses, reviews, blog content, FAQs and store settings.
+
+#### Key Features
+
+- Modern responsive ecommerce storefront
+- Laravel admin management dashboard
+- Customer registration and login
+- Product catalog and product details
+- Product category and brand management
+- Product variations including size, color and model
+- Product search and shopping cart
+- Customer and order management
+- Payment status management
+- Customer review management
+- Blog and FAQ management
+- Built-in product SEO metadata fields
+- Responsive design for desktop, tablet and mobile
+
+#### Technologies
+
+`PHP` · `Laravel` · `Blade` · `Tailwind CSS` · `JavaScript` · `MySQL`
+
+#### Suitable For
+
+Fashion stores, electronics shops, beauty businesses, accessories stores, general retail companies, startups and online shopping websites.
+
+**Version:** 1.0.0  
+**Category:** Website Projects  
+**Collection:** eCommerce Solutions
+
+**[View Laravel eCommerce Project, Screenshots & Pricing](https://www.asicoder.co.uk/category/website-projects/ecommerce-solutions/laravel-ecommerce-website-with-admin-panel-tailwind-css)**
+
+**[Read Full Laravel eCommerce Documentation](Laravel-eCommerce-Admin-Panel.md)**
+
+**Need a Similar or Custom Ecommerce Website?**
+
+[Submit a Custom Project Inquiry](https://www.asicoder.co.uk/project-request) · [Explore Development Services](https://www.asicoder.co.uk/our-service)
+
+**Business Research:** [Explore B2B Business Data & Market Research](https://www.asicoder.co.uk/business-data)
+
+---
+
+### 3. Medical & Dental Ecommerce Website with Booking, Inventory & Stripe Payments
+
+[![ASICODER Medical and Dental Ecommerce Website with Booking Inventory and Stripe Payments](https://www.asicoder.co.uk/assets/products/1789482190-buy%20products%20dental.webp)](https://www.asicoder.co.uk/category/website-projects/ecommerce-solutions/medical-dental-ecommerce-website-with-booking-inventory-stripe-payments)
+
+**A Healthcare Ecommerce Platform for Medical Suppliers, Dental Businesses, Clinics and Professional Service Providers**
+
+The ASICODER Medical & Dental Ecommerce Website combines online medical and dental product sales, inventory management, service bookings, customer accounts, Stripe payment integration and business administration within one responsive system.
+
+It is designed for healthcare-related businesses, particularly organizations building an online presence for the UK market.
+
+#### Key Features
+
+- Medical and dental ecommerce storefront
+- Product and inventory management
+- Online service booking requests
+- Stripe payment integration
+- Customer registration and account management
+- Customer orders and checkout
+- Admin dashboard and reporting
+- Brand and product category management
+- Healthcare service pages
+- Blog publishing and buying guides
+- Product reviews
+- Homepage sliders and banners
+- Built-in SEO title and metadata fields
+- Responsive mobile-friendly design
+
+#### Technologies
+
+`PHP` · `Laravel` · `Tailwind CSS` · `Blade` · `JavaScript` · `MySQL`
+
+#### Suitable For
+
+Dental clinics, medical suppliers, healthcare stores, pharmacies, dental laboratories, medical equipment retailers and healthcare businesses.
+
+**Version:** 1.0.0  
+**Category:** Website Projects  
+**Collection:** eCommerce Solutions
+
+**[View Medical & Dental eCommerce Project, Screenshots & Pricing](https://www.asicoder.co.uk/category/website-projects/ecommerce-solutions/medical-dental-ecommerce-website-with-booking-inventory-stripe-payments)**
+
+**[Read Full Medical & Dental Ecommerce Documentation](Medical-Dental-eCommerce-Booking-Inventory.md)**
+
+**Need a Similar Medical, Dental or Healthcare Ecommerce Website?**
+
+[Submit a Custom Project Inquiry](https://www.asicoder.co.uk/project-request) · [Explore Software Development Services](https://www.asicoder.co.uk/our-service)
+
+**Business Research:** [Explore B2B Company Research & Market Intelligence](https://www.asicoder.co.uk/business-data)
+
+---
+
+
 ---
 
 © 2026 ASICODER — Advanced Software Innovation Coder. All rights reserved.
